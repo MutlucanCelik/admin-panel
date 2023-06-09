@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  color: inherit !important;
+  text-decoration: none;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+body {
+  background-color: #f7f8fa;
+  color: rgba(107, 122, 153, 1);
+  font-family: "Roboto";
+  overflow-x: hidden;
+}
+.h-750 {
+  height: 750px;
+}
+.h-500 {
+  height: 500px;
+}
